@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47accb4-e268-4d90-83dd-1c0df83dcbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tema3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/src/exemples/Exemple_3_4_1_XMLMirar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/src/exemples/Exemple_3_4_2_XMLMirar2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/src/exemples/Exemple_3_4_3_XMLMirarCotxes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema3/src/exemples/Exemple_3_4_4_XMLCrearEmpleats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema3JAXB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema_JAXB/Tema_JAXB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/Tema3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/Tema3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/META-INF/Tema3.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/META-INF/Tema3.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Empleat$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Empleat$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Empleat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Empleat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_1_1_CrearEmpleatsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_1_1_CrearEmpleatsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_1_2_ConsultarEmpleatsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_1_2_ConsultarEmpleatsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_1_EmpleatsDirecteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_1_EmpleatsDirecteKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_2_Crear_Empleats2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_2_Crear_Empleats2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_3_Empleats2DirecteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_3_Empleats2DirecteKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_4_CrearEmpleat3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_4_CrearEmpleat3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_5_Empleats3DirecteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_2_5_Empleats3DirecteKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_3_1_GuardarObjectesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_3_1_GuardarObjectesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_3_2_LlegirObjectesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema3/out/production/Tema3/exemples/Exemple_3_3_2_LlegirObjectesKt.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cotxes.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/exemple_JAXB/ObjectFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cotxes.xsd" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/exemple_JAXB/Oferta.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exemple_JAXB/Combust.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/exemple_JAXB/JAXB_Exemplecotxes.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1yg5kvwjG5GawO3eqiUNpiudbmy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.JAXB_ExemplecotxesKt">
+    <configuration name="JAXBExempleCotxes" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemple_JAXB.JAXBExempleCotxes" />
+      <module name="Tema3JAXB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAXB_ExemplecotxesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemple_JAXB.JAXB_ExemplecotxesKt" />
+      <module name="Tema3JAXB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.JAXB_ExemplecotxesKt" />
+        <item itemvalue="Kotlin.JAXBExempleCotxes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47accb4-e268-4d90-83dd-1c0df83dcbb9" name="Changes" comment="" />
+      <created>1632660538270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632660538270</updated>
+      <workItem from="1632660539584" duration="977000" />
+      <workItem from="1632672124993" duration="3045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
