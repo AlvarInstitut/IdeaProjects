@@ -1,4 +1,7 @@
 import classes.Comarca
+import classes.Comarques
+import classes.Instituts
+import classes.Poblacions
 
 import java.io.FileOutputStream
 import java.io.ObjectOutputStream
@@ -14,6 +17,19 @@ fun main(){
     for (com in sent.resultList) {
         com as Comarca
         println(com.nomC + " (" + com.provincia +"): " + com.poblacions!!.size + " pobles")
-        f.writeObject(com)
+        val pobl = mutableListOf<Poblacions>()
+        val c = Comarques(com.nomC!!,com.provincia!!,pobl)
+        for (p in com.poblacions!!){
+            val inst = mutableListOf<Instituts>()
+            val po = Poblacions(p.codM,p.nom,p.poblacio,p.extensio,p.altura,p.longitud,p.latitud,p.llengua,inst,c)
+            if (p.instituts != null)
+                 for (i in p.instituts!!) {
+                     inst.add(Instituts(i.codi!!, i.nom, i.adreca, i.numero, i.codpostal,po))
+                 }
+            po.instituts=inst
+            pobl.add(po)
+        }
+        c.poblacions=pobl
+        f.writeObject(c)
     }
 }

@@ -6,6 +6,10 @@ import javax.persistence.*
 
 @Entity
 class Comarca: Serializable {
+    companion object {
+        private const val serialVersionUID: Long = 1
+    }
+
     @get:Column(name = "nom_c")
     @get:Id
     var nomC: String? = null

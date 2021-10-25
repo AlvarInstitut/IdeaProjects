@@ -6,6 +6,10 @@ import javax.persistence.*
 import java.io.Serializable
 @Entity
 class Institut:Serializable {
+    companion object {
+        private const val serialVersionUID: Long = 1
+    }
+
     @get:Column(name = "codi")
     @get:Id
     var codi: String? = null

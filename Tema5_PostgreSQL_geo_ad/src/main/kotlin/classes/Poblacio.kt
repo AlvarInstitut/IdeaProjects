@@ -8,6 +8,10 @@ import javax.persistence.*
 import java.io.Serializable
 @Entity
 class Poblacio:Serializable {
+    companion object {
+        private const val serialVersionUID: Long = 1
+    }
+
     @get:Column(name = "cod_m")
     @get:Id
     var codM = 0
