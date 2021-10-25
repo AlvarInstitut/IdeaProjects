@@ -1,0 +1,16 @@
+DNI: 20113145j Nom: Albert Boix
+Notes: 7.5  8.5  7.25
+Nota mitjana: 7.75
+-----------------------------------
+DNI: 20674392h Nom: Claudia Duch
+Notes: 8.75  9.5  8.0
+Nota mitjana: 8.75
+-----------------------------------
+DNI: 20896278z Nom: Elvira Folch
+Notes: 9.5  9.0  9.25
+Nota mitjana: 9.25
+-----------------------------------
+DNI: 20518053g Nom: Gerard Hernandez
+Notes: 8.5  6.5  7.25
+Nota mitjana: 7.4166665
+-----------------------------------
