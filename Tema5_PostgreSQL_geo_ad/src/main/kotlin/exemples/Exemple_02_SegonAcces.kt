@@ -1,5 +1,6 @@
-package classes
+package exemples
 
+import classes.Comarca
 import org.hibernate.cfg.Configuration
 import java.util.logging.Level
 import java.util.logging.LogManager
@@ -8,12 +9,12 @@ fun main(args: Array<String>) {
     LogManager.getLogManager().getLogger("").setLevel(Level.SEVERE)
     val sessio = Configuration().configure().buildSessionFactory().openSession()
 
-    val q = sessio.createQuery("from Comarca order by 2,1")
+    val com = sessio.load("classes.Comarca", "Alt Maestrat") as Comarca
+    print("Comarca " + com.nomC + ": ")
+    print(com.provincia)
+    println(" (" + com.poblacions.size + " pobles)")
 
-    for(c in q.list()) {
-        c as Comarca
-        println(c.nomC + " - " + c.provincia)
-    }
-
+    for (p in com.poblacions)
+        println("\t" + p.nom)
     sessio.close()
 }

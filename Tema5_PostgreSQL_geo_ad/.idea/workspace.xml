@@ -4,48 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Tema5_MySQL_factura/Tema5_MySQL_factura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/Tema5_ProvaHib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/Tema5_ProvaHib_xml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Comarca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Institut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Poblacio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Comarca.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Institut.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Poblacio.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_SQLite_Empleats/Tema5_SQLite_Empleats.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema5_SQLite_Rutes/Tema5_SQLite_Rutes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeoAD.obj" beforeDir="false" />
+    <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b/storage_v2/_src_/database/geo_ad.0VOGtQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b/storage_v2/_src_/database/geo_ad.0VOGtQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema5_PostgreSQL_geo_ad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tema5_PostgreSQL_geo_ad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AccedirFitxerObj.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PrimerAcces.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Comarca.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Comarques.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Institut.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Instituts.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Poblacio.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Poblacions.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AccedirFitxerObjKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/PrimerAcces.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimerAccesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca$Companion.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Comarca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarques$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut$Companion.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Institut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Instituts$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Instituts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio$Companion.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacions$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/PrimerAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/PrimerAccesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/Tema5_ProvaHib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/Tema5_ProvaHib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/META-INF/Tema5_ProvaHib.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/META-INF/Tema5_ProvaHib.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Comarca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Comarca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultaComplexa3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultesAmbParametres1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultesAmbParametres1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultesAmbParametres2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/ConsultesAmbParametres2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/InsercioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/InsercioKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Institut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Institut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Poblacio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/Poblacio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/PrimerAccessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/PrimerAccessKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/QuartAccessKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/QuartAccessKt$main$$inlined$sortedBy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/QuartAccessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/QuartAccessKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/SegonAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/SegonAccesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/SessionFactoryUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/target/classes/classes/SessionFactoryUtil.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,19 +86,48 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Drivers2021/postgresql-42.2.24.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tema5_ProvaHib" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12430633" />
     <property name="project.structure.side.proportion" value="0.13214737" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="classes" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Exemple_02_SegonAccesKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemple_02_SegonAccesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemples.Exemple_02_SegonAccesKt" />
+      <module name="Tema5_PostgreSQL_geo_ad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemple_5_01_PrimerAccesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemples.Exemple_5_01_PrimerAccesKt" />
+      <module name="Tema5_PostgreSQL_geo_ad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimerAccesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classes.PrimerAccesKt" />
       <module name="Tema5_PostgreSQL_geo_ad" />
@@ -116,6 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exemple_02_SegonAccesKt" />
+        <item itemvalue="Kotlin.Exemple_5_01_PrimerAccesKt" />
         <item itemvalue="Kotlin.PrimerAccesKt" />
       </list>
     </recent_temporary>
@@ -132,6 +155,8 @@
       <workItem from="1635787254187" duration="1621000" />
       <workItem from="1635789574532" duration="3453000" />
       <workItem from="1635795374864" duration="1110000" />
+      <workItem from="1635836497718" duration="1910000" />
+      <workItem from="1635853183452" duration="3435000" />
     </task>
     <servers />
   </component>
@@ -149,5 +174,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/exemples/Exemple_02_SegonAcces.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
