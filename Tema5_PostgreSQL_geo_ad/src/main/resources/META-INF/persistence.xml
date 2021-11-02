@@ -5,14 +5,5 @@
              version="2.2">
     <persistence-unit name="default">
 
-        <class>classes.Comarca</class>
-        <class>classes.Institut</class>
-        <class>classes.Poblacio</class>
-        <properties>
-            <property name="hibernate.connection.url" value="jdbc:postgresql://89.36.214.106:5432/geo_ad"/>
-            <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
-            <property name="hibernate.connection.username" value="geo_ad"/>
-            <property name="hibernate.connection.password" value="geo_ad"/>
-        </properties>
     </persistence-unit>
 </persistence>

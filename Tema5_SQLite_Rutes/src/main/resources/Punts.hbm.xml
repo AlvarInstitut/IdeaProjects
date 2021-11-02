@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="classes.Punts" table="PUNTS" schema="main">
+        <composite-id mapped="true" class="classes.PuntsPK">
+            <key-property name="numR" column="num_r" insert="false" update="false"/>
+            <key-property name="numP" column="num_p"/>
+        </composite-id>
+        <property name="nomP" column="nom_p"/>
+        <property name="latitud" column="latitud"/>
+        <property name="longitud" column="longitud"/>
+        <many-to-one name="ruta" class="classes.Rutes">
+            <column name="num_r" not-null="true" insert="false" update="false"/>
+        </many-to-one>
+    </class>
+</hibernate-mapping>

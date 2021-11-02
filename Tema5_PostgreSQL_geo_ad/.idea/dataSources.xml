@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Connexio PostgreSQL" uuid="2a52ef31-5f4f-410f-a5c1-b42b63ede9a7">
+    <data-source source="LOCAL" name="PostgreSQL geo_ad" uuid="adbef017-44c2-4833-bde8-0419de5e108b">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>

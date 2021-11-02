@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tema5_MySQL_factura/Tema5_MySQL_factura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib/Tema5_ProvaHib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/Tema5_ProvaHib_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Comarca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Institut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/kotlin/classes/Poblacio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Comarca.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Institut.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_ProvaHib_xml/src/main/resources/Poblacio.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_SQLite_Empleats/Tema5_SQLite_Empleats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema5_SQLite_Rutes/Tema5_SQLite_Rutes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoAD.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema5_PostgreSQL_geo_ad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tema5_PostgreSQL_geo_ad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AccedirFitxerObj.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PrimerAcces.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Comarca.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Comarques.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Institut.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Instituts.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Poblacio.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Poblacions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AccedirFitxerObjKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimerAccesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Comarca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarques$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Institut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Instituts$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Instituts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacions$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacions.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="20JUYsd9Cl7FI772rYyjwVLFquB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="adbef017-44c2-4833-bde8-0419de5e108b" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Drivers2021/postgresql-42.2.24.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.12430633" />
+    <property name="project.structure.side.proportion" value="0.13214737" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PrimerAccesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.PrimerAccesKt" />
+      <module name="Tema5_PostgreSQL_geo_ad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PrimerAccesKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="" />
+      <created>1635762238164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635762238164</updated>
+      <workItem from="1635762242311" duration="6464000" />
+      <workItem from="1635787254187" duration="1621000" />
+      <workItem from="1635789574532" duration="3453000" />
+      <workItem from="1635795374864" duration="1110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
