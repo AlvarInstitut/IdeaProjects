@@ -1819,7 +1819,7 @@ true posixrules
 11518||-9223372036854775808|U|G
 11518||10|U|G</Grants>
       <Owner>geo_ad</Owner>
-      <IntrospectionStateNumber>174630</IntrospectionStateNumber>
+      <IntrospectionStateNumber>174652</IntrospectionStateNumber>
       <Current>1</Current>
     </database>
     <database id="99" parent="1" name="geo_juanvi">
@@ -2652,7 +2652,7 @@ Base de Dades únicament per a que es connecte phppgadmin abans d&apos;accedir a
       <Comment>standard public schema</Comment>
       <StateNumber>1763</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>174631</IntrospectionStateNumber>
+      <IntrospectionStateNumber>174653</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <extension id="276" parent="98" name="plpgsql">
