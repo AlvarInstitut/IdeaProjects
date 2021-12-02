@@ -5,31 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_30_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/TemTema5_PostgreSQL_Rutes_Anotacions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/kotlin/classes/Accedint.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/kotlin/classes/Punt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/kotlin/classes/PuntPK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/kotlin/classes/Ruta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/META-INF/TemTema5_PostgreSQL_Rutes_Anotacions.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/classes/AccedintKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/classes/Punt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/classes/PuntPK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/classes/Ruta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemTema5_PostgreSQL_Rutes_Anotacions/target/classes/hibernate.cfg.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex5_3_VeurePoblesComarca_Combobox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex5_3_VeurePoblesComarca_Combobox.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex5_4_MantenimentComarques.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex5_4_MantenimentComarques.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Comarca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Institut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_01_PrimerAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_01_PrimerAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_02_SegonAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_02_SegonAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_03_TercerAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_03_TercerAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_04_QuartAccessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_04_QuartAccessKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_11_InsercioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_11_InsercioKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_12_EsborratKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_12_EsborratKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_13_ModificacioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_13_ModificacioKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_21_AccesAmbListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_21_AccesAmbListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_22_AccesAmbListForEachKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_22_AccesAmbListForEachKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_23_AccesAmbUniqueResultKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_23_AccesAmbUniqueResultKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_31_ConsultesAmbParametres1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_31_ConsultesAmbParametres1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_32_ConsultesAmbParametres2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_32_ConsultesAmbParametres2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_41_ConsultaComplexa1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_41_ConsultaComplexa1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_42_ConsultaComplexa2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_42_ConsultaComplexa2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_43_ConsultaComplexa3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_43_ConsultaComplexa3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_51_EsborratMassiuKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_51_EsborratMassiuKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_52_ModificacioMassivaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_52_ModificacioMassivaKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_2_VeurePoblesComarcaKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_2_VeurePoblesComarcaKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_2_VeurePoblesComarcaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_2_VeurePoblesComarcaKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_3_VeurePoblesComarca_ComboboxKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_3_VeurePoblesComarca_ComboboxKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_3_VeurePoblesComarca_ComboboxKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_3_VeurePoblesComarca_ComboboxKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_4_MantenimentComarquesKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_4_MantenimentComarquesKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Ex5_4_MantenimentComarquesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Ex5_4_MantenimentComarquesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Finestra$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Finestra$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/Finestra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/Finestra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraComboBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercicis/FinestraMantenimentComarques.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +138,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tema5_ProvaHib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tema5_PostgreSQL_Rutes_Anotacions" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12430633" />
     <property name="project.structure.side.proportion" value="0.13214737" />
@@ -168,6 +217,9 @@
       <workItem from="1637327211611" duration="326000" />
       <workItem from="1638309810045" duration="1384000" />
       <workItem from="1638349419901" duration="598000" />
+      <workItem from="1638431952348" duration="263000" />
+      <workItem from="1638432336162" duration="51000" />
+      <workItem from="1638432572712" duration="63000" />
     </task>
     <servers />
   </component>
