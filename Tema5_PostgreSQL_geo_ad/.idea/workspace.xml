@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/adbef017-44c2-4833-bde8-0419de5e108b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/Tema5_PostgreSQL_geo_ad.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Comarca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Comarca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Institut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Institut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Poblacio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_01_PrimerAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_01_PrimerAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_02_SegonAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_02_SegonAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_03_TercerAccesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_03_TercerAccesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_04_QuartAccessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_04_QuartAccessKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_11_InsercioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_11_InsercioKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_12_EsborratKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_12_EsborratKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_13_ModificacioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_13_ModificacioKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_21_AccesAmbListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_21_AccesAmbListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_22_AccesAmbListForEachKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_22_AccesAmbListForEachKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_23_AccesAmbUniqueResultKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_23_AccesAmbUniqueResultKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_31_ConsultesAmbParametres1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_31_ConsultesAmbParametres1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_32_ConsultesAmbParametres2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_32_ConsultesAmbParametres2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_41_ConsultaComplexa1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_41_ConsultaComplexa1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_42_ConsultaComplexa2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_42_ConsultaComplexa2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_43_ConsultaComplexa3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_43_ConsultaComplexa3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_51_EsborratMassiuKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_51_EsborratMassiuKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exemples/Exemple_52_ModificacioMassivaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exemples/Exemple_52_ModificacioMassivaKt.class" afterDir="false" />
-    </list>
+    <list default="true" id="d180e14d-e58b-4c50-a9d7-94af576c3141" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +142,7 @@
       <workItem from="1637327211611" duration="326000" />
       <workItem from="1638309810045" duration="1384000" />
       <workItem from="1638349419901" duration="598000" />
+      <workItem from="1638783219193" duration="21000" />
     </task>
     <servers />
   </component>
