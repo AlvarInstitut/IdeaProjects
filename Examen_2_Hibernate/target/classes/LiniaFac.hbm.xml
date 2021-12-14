@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="classesFactura.LiniaFac" table="linia_fac" schema="public" catalog="e_factura">
+        <id name="numL" column="num_l"/>
+        <property name="quant" column="quant"/>
+        <property name="preu" column="preu"/>
+        <many-to-one name="factura" class="classesFactura.Factura">
+            <column name="num_f"/>
+        </many-to-one>
+        <many-to-one name="article" class="classesFactura.Article">
+            <column name="cod_a"/>
+        </many-to-one>
+    </class>
+</hibernate-mapping>

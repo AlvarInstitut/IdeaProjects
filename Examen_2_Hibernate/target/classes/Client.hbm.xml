@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="classesFactura.Client" table="client" schema="public" catalog="e_factura">
+        <id name="codCli" column="cod_cli"/>
+        <property name="nom" column="nom"/>
+        <property name="adreca" column="adreca"/>
+        <property name="cp" column="cp"/>
+        <many-to-one name="poble" class="classesFactura.Poble">
+            <column name="cod_pob" not-null="true"/>
+        </many-to-one>
+        <set name="factures" inverse="true">
+            <key>
+                <column name="cod_cli"/>
+            </key>
+            <one-to-many not-found="ignore" class="classesFactura.Factura"/>
+        </set>
+    </class>
+</hibernate-mapping>
