@@ -44,7 +44,7 @@ class CoffeeShops : JFrame() {
 
         getContentPane().add(foto, BorderLayout.CENTER)
 
-        val serviceAccount = FileInputStream("acces-a-dades-6e5a6-firebase-adminsdk-ei7uc-fcf7da56aa.json")
+        val serviceAccount = FileInputStream("xat-ad-firebase-adminsdk-my2d0-8c69944b34.json")
 
         val options = FirebaseOptions.builder()
             .setCredentials(GoogleCredentials.fromStream(serviceAccount))
@@ -53,7 +53,7 @@ class CoffeeShops : JFrame() {
         FirebaseApp.initializeApp(options)
 
         database = FirestoreClient.getFirestore()
-        bucket = StorageClient.getInstance().bucket("acces-a-dades-6e5a6.appspot.com")
+        bucket = StorageClient.getInstance().bucket("xat-ad.appspot.com")
 
         // Exemple de listener de lectura contínua addSnapshotListener() sobre una col·lecció
         // Per a posar tota la llista de missatges. Sobre /Xats/XatProva/missatges
@@ -75,7 +75,7 @@ class CoffeeShops : JFrame() {
             .addSnapshotListener { snapshots, e ->
 
                 for (dc in snapshots!!.getDocumentChanges()) {
-                    val blob = bucket?.get("CofeeShops/" + dc.getDocument().getString("imatge"))
+                    val blob = bucket?.get("CoffeeShops/" + dc.getDocument().getString("imatge"))
 
                     //Segona manera de llegir: muntant un reader per a carregar a un ByteBuffer
                     val im = ByteBuffer.allocate(1024 * 1024)
