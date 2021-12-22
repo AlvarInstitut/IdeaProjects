@@ -1,22 +1,27 @@
 package exercicis
 
-import java.io.FileInputStream
-import com.google.firebase.FirebaseOptions
+import com.google.api.services.storage.Storage
 import com.google.auth.oauth2.GoogleCredentials
 import com.google.cloud.firestore.DocumentChange
 import com.google.cloud.storage.Bucket
 import com.google.firebase.FirebaseApp
+import com.google.firebase.FirebaseOptions
 import com.google.firebase.cloud.FirestoreClient
 import com.google.firebase.cloud.StorageClient
-import java.applet.Applet
-import java.applet.AudioClip
-import java.awt.*
-import java.io.ByteArrayInputStream
-import java.net.URL
+import javazoom.jl.player.advanced.AdvancedPlayer
+import java.awt.BorderLayout
+import java.awt.EventQueue
+import java.awt.FlowLayout
+import java.awt.GridLayout
+import java.io.FileInputStream
+import java.io.InputStream
 import java.nio.ByteBuffer
+import java.nio.channels.Channels
+
 import java.nio.file.Paths
-import javax.imageio.ImageIO
+import java.nio.file.Files.newInputStream
 import javax.swing.*
+
 
 class AudiosCF : JFrame() {
 
@@ -27,7 +32,7 @@ class AudiosCF : JFrame() {
     val stop = JButton("Stop")
 
     lateinit var bucket: Bucket
-    lateinit var clip: AudioClip
+    lateinit var clip: AdvancedPlayer
     // en iniciar posem un contenidor per als elements anteriors
     init {
         defaultCloseOperation = JFrame.EXIT_ON_CLOSE
@@ -68,11 +73,15 @@ class AudiosCF : JFrame() {
                         combo.addItem(dc.document.getString("fitxer")!!)
                 }
             }
+            combo.addActionListener { agafar() }
         }
-
-
-        combo.addActionListener { agafar() }
-        play.addActionListener { clip.loop() }
+        db.collection("Audios")
+        play.addActionListener {
+            println("reproduint")
+            clip.play()
+            println("Ha funcionat?")
+            //clip.loop()
+            }
         stop.addActionListener { clip.stop() }
     }
 
@@ -84,8 +93,13 @@ class AudiosCF : JFrame() {
         blob?.reader()?.read(audio)
         val destFilePath = Paths.get("auxiliar.jpg")
         blob?.downloadTo(destFilePath)
+        println(blob)
 
-        clip = Applet.newAudioClip(destFilePath.toUri().toURL())
+        //clip = Applet.newAudioClip(destFilePath.toUri().toURL())
+        val reader = blob.reader()
+        val inputStream: InputStream = Channels.newInputStream(reader)
+        clip = AdvancedPlayer(inputStream)
+//        val ais: AudioInputStream = AudioSystem.getAudioInputStream(url)
 
     }
 

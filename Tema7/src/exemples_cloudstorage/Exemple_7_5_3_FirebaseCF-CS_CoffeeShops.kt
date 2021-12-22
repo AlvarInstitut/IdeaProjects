@@ -1,5 +1,7 @@
 package exemples_cloudstorage
 
+
+
 import javax.swing.JFrame
 import java.awt.EventQueue
 import javax.swing.JComboBox
@@ -46,7 +48,7 @@ class CoffeeShops : JFrame() {
 
         val serviceAccount = FileInputStream("xat-ad-firebase-adminsdk-my2d0-8c69944b34.json")
 
-        val options = FirebaseOptions.builder()
+        val options = FirebaseOptions.Builder()
             .setCredentials(GoogleCredentials.fromStream(serviceAccount))
             .build()
 
