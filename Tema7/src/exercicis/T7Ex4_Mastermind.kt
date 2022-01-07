@@ -106,10 +106,12 @@ class T7Ex1_Mastermind : JFrame() {
             fun onDataChange(dataSnapshot: DataSnapshot) {
                 //ultimMissatge.setText(dataSnapshot.getValue().toString())
                 val b = dataSnapshot.getValue(Boolean::class.java)
-                etIntroduccioTirada.isVisible= ! b
-                tirada.isVisible=! b
-                enviar.isVisible=! b
-                botoPartidaNova.isVisible=b
+                if (b) {
+                    etIntroduccioTirada.isVisible = false
+                    tirada.isVisible = false
+                    enviar.isVisible = false
+                    botoPartidaNova.isVisible = true
+                }
             }
 
             override
@@ -152,6 +154,12 @@ class T7Ex1_Mastermind : JFrame() {
     }
 
     fun partidaNova(){
+        area.text=""
+        etIntroduccioTirada.isVisible = true
+        tirada.isVisible = true
+        enviar.isVisible = true
+        botoPartidaNova.isVisible = false
+
         val mastermind = FirebaseDatabase.getInstance().getReference("Mastermind")
 
         mastermind.addListenerForSingleValueEvent(object : ValueEventListener {
@@ -163,7 +171,6 @@ class T7Ex1_Mastermind : JFrame() {
                     numSecret=genera()
                     FirebaseDatabase.getInstance().getReference("Mastermind/numSecret").setValue(numSecret,null)
                     FirebaseDatabase.getInstance().getReference("Mastermind/finalitzada").setValue(false,null)
-                    area.text=""
                 }
                 else {
                     numSecret = dataSnapshot.child("numSecret").getValue(String::class.java)
