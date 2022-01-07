@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: exercicis.T7Ex4_MastermindKt
+

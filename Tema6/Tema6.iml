@@ -11,7 +11,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar:///media/assignatura/Curs 2021-2022/2DAM/AD/Drivers2021/db4o-8.0.276.16149-core-java5.jar!/" />
+          <root url="jar://$USER_HOME$/Drivers2021/db4o-8.0.276.16149-core-java5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -20,7 +20,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar:///media/assignatura/Curs 2021-2022/2DAM/AD/Drivers2021/sqlite-jdbc-3.36.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Drivers2021/sqlite-jdbc-3.36.0.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

@@ -1,0 +1,81 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tema7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tema7_jar</output-path>
+    <root id="archive" name="Tema7.jar">
+      <element id="module-output" name="Tema7" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/media-player.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/gax-1.66.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/gson-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/gax-grpc-1.66.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-api-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/httpcore-4.4.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-alts-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-auth-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-core-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-stub-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/threetenbp-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/api-common-1.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-grpclb-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/annotations-4.1.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/failureaccess-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/gax-httpjson-0.83.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-context-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/jackson-core-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/perfmark-api-0.23.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/firebase-admin-8.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-protobuf-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/guava-30.1.1-android.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/protobuf-java-3.17.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/opencensus-api-0.28.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/j2objc-annotations-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-api-client-1.32.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-cloud-core-1.95.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-netty-shaded-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-codec-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/checker-compat-qual-2.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-http-client-1.39.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/grpc-protobuf-lite-1.39.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-buffer-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-common-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/protobuf-java-util-3.17.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-oauth-client-1.31.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/javax.annotation-api-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-handler-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/proto-google-iam-v1-1.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-resolver-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/auto-value-annotations-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/conscrypt-openjdk-uber-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-cloud-firestore-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-cloud-storage-1.118.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-transport-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/error_prone_annotations-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-api-client-gson-1.32.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-cloud-core-grpc-1.95.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-cloud-core-http-1.95.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/netty-codec-http-4.1.67.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-http-client-gson-1.39.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/animal-sniffer-annotations-1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/proto-google-common-protos-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-http-client-jackson2-1.39.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-http-client-apache-v2-1.39.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-http-client-appengine-1.39.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/opencensus-contrib-grpc-util-0.28.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/opencensus-contrib-http-util-0.28.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/proto-google-cloud-firestore-v1-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-auth-library-credentials-0.26.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-auth-library-oauth2-http-0.26.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/proto-google-cloud-firestore-bundle-v1-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/google-api-services-storage-v1-rev20210127-1.32.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Drivers2021/Firebase/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" path-in-jar="/" />
+      <element id="archive" name="T7Ex4.jar" />
+    </root>
+  </artifact>
+</component>
