@@ -10,7 +10,7 @@ import javax.swing.*
 
 class Tirada(var nom: String, var tirada: String, var colocades: Int, var desordenades: Int)
 
-class T7Ex1_Mastermind : JFrame() {
+class T7Ex4_Mastermind_RD : JFrame() {
 
     val etJugador = JLabel("Nom Jugador: ")
     val jugador = JTextField(15)
@@ -177,7 +177,16 @@ class T7Ex1_Mastermind : JFrame() {
             fun onCancelled(error: DatabaseError) {
             }
         })
+    }
 
+    fun enviar(){
+        val ordDesord = comprova(tirada.text,numSecret)
+        val p = FirebaseDatabase.getInstance().getReference("Mastermind")
+        val t = Tirada(jugador.text, tirada.text,ordDesord.get(0), ordDesord.get(1))
+        p.child("tirades").push().setValue(t, null)
+        if (ordDesord.get(0)==4)
+            p.child("finalitzada").setValue(true,null)
+        tirada.text=""
     }
 
     fun genera(): String {
@@ -204,22 +213,12 @@ class T7Ex1_Mastermind : JFrame() {
                     else nopos++
         return intArrayOf(pos, nopos)
     }
-
-    fun enviar(){
-        val ordDesord = comprova(tirada.text,numSecret)
-        val p = FirebaseDatabase.getInstance().getReference("Mastermind")
-        val t = Tirada(jugador.text, tirada.text,ordDesord.get(0), ordDesord.get(1))
-        p.child("tirades").push().setValue(t, null)
-        if (ordDesord.get(0)==4)
-            p.child("finalitzada").setValue(true,null)
-        tirada.text=""
-    }
 }
 
 
 
 fun main(args: Array<String>) {
     EventQueue.invokeLater {
-        T7Ex1_Mastermind().isVisible = true
+        T7Ex4_Mastermind_RD().isVisible = true
     }
 }
