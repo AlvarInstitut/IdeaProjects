@@ -11,6 +11,15 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://$USER_HOME$/Drivers2021/json-20210307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://$USER_HOME$/Drivers2021/mongo-java-driver-3.9.1.jar!/" />
         </CLASSES>
         <JAVADOC />
