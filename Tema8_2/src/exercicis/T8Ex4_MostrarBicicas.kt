@@ -8,7 +8,7 @@ fun main(){
 
     val estacions = bd.getCollection("bicicas").find()
     for (e in estacions){
-        println("" + e.get("id") + ".- " + e.get("punto") + " (" + e.get("puestos") + "/" + e.get("ocupados") + ")")
+        println("" + e.get("id") + ".- " + e.get("punto") + " (" + e.get("ocupados") + "/" + e.get("puestos") + ")")
     }
     con.close()
 }

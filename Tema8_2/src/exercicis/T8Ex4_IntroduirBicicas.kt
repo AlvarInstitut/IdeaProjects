@@ -13,9 +13,8 @@ import java.net.URLConnection
 
 fun main(){
     val url = URL("http://gestiona.bicicas.es/apps/apps.php")
-    val conn: URLConnection = url.openConnection()
+    val rd = url.openConnection().getInputStream().reader()
 
-    val rd =InputStreamReader(conn.getInputStream())
     val arrel = ((JSONTokener(rd).nextValue() as JSONArray).get(0) as JSONObject).get("ocupacion") as JSONArray
     println(arrel.length())
 
@@ -23,13 +22,13 @@ fun main(){
     val bd = con.getDatabase("test")
 
     for (e in arrel) {
-        e as JSONObject
+       // e as JSONObject
 
-        val doc = Document()
-        doc.put("id", e.get("id"))
-        doc.put("punto", e.get("punto"))
-        doc.put("puestos", e.get("puestos"))
-        doc.put("ocupados", e.get("ocupados"))
+        val doc = Document.parse(e.toString())
+//        doc.put("id", e.get("id"))
+//        doc.put("punto", e.get("punto"))
+//        doc.put("puestos", e.get("puestos"))
+//        doc.put("ocupados", e.get("ocupados"))
         bd.getCollection("bicicas").insertOne(doc)
     }
     con.close();
