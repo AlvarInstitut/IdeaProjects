@@ -4,7 +4,7 @@ import com.mongodb.MongoClient
 import org.bson.Document
 
 fun main(args: Array<String>) {
-    val con = MongoClient("localhost", 27017)
+    val con = MongoClient("localhost")
     val bd = con.getDatabase("test")
     val doc = Document()
     doc.put("msg4", "Missatge inserit des de Kotlin")

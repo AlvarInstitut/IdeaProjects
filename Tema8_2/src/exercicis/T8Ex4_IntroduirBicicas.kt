@@ -9,9 +9,12 @@ import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.net.URL
 import java.net.URLConnection
+import java.util.logging.Level
+import java.util.logging.LogManager
 
 
 fun main(){
+    LogManager.getLogManager().getLogger("").setLevel(Level.SEVERE)
     val url = URL("http://gestiona.bicicas.es/apps/apps.php")
     val rd = url.openConnection().getInputStream().reader()
 
