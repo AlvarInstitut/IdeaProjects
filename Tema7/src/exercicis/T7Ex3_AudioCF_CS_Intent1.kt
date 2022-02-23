@@ -7,7 +7,7 @@ import com.google.firebase.FirebaseApp
 import com.google.firebase.FirebaseOptions
 import com.google.firebase.cloud.FirestoreClient
 import com.google.firebase.cloud.StorageClient
-import uk.co.caprica.vlcj.player.*
+//import uk.co.caprica.vlcj.player.*
 import java.awt.BorderLayout
 import java.awt.EventQueue
 import java.awt.FlowLayout
