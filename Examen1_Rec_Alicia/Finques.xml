@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<finques>
+  <finca>
+    <adreca>Carrer de Dalt, 1</adreca>
+    <vivendes num="4"/>
+  </finca>
+  <finca>
+    <adreca>Carrer de Dalt, 3</adreca>
+    <vivendes num="1"/>
+  </finca>
+</finques>
