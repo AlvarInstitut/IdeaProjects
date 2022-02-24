@@ -30,7 +30,7 @@ class Firebase_Genera : JFrame() {
 
         val options = FirebaseOptions.builder()
             .setCredentials(GoogleCredentials.fromStream(serviceAccount))
-            .setDatabaseUrl("https://acces-a-dades-6e5a6.firebaseio.com").build()
+            .setDatabaseUrl("https://exadfirebase.firebaseio.com").build()
 
         FirebaseApp.initializeApp(options)
 
@@ -44,6 +44,7 @@ class Firebase_Genera : JFrame() {
         val num = genera()
         println(num)
         // Instruccions per a guardar num (el número aleatori generat) en Firebase
+        
     }
 
 }

@@ -3,6 +3,10 @@ package Firebase
 import com.google.auth.oauth2.GoogleCredentials
 import com.google.firebase.FirebaseApp
 import com.google.firebase.FirebaseOptions
+import com.google.firebase.database.DataSnapshot
+import com.google.firebase.database.DatabaseError
+import com.google.firebase.database.FirebaseDatabase
+import com.google.firebase.database.ValueEventListener
 import java.awt.EventQueue
 import java.awt.FlowLayout
 import java.awt.Font
@@ -35,6 +39,18 @@ class Firebase_Mostra : JFrame() {
         FirebaseApp.initializeApp(options)
 
         //Instruccions per a muntar un listener permanent que puga llegir el número de Firebase i el pose en JLabel numPremiat
+        val ref = FirebaseDatabase.getInstance().getReference("numAleat_00")
+
+        ref.addValueEventListener(object : ValueEventListener {
+            override
+            fun onDataChange(dataSnapshot: DataSnapshot) {
+                numPremiat.text = dataSnapshot.getValue().toString()
+            }
+
+            override
+            fun onCancelled(error: DatabaseError) {
+            }
+        })
 
 
     }
