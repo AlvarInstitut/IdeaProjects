@@ -1,0 +1,3 @@
+0;Pepe Fernandez;12345678A;pepe@gmail.com;C/Bonita
+0;María Martinez;87654321B;maria@hotmail.com;C/Fea
+0;Luís García;11111111C;luís@gmai.com;C/Limpia
